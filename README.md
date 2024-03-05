@@ -1,6 +1,5 @@
 # Machine-Learning-Workshop-CZU-Prague-2024
 
-# Machine-learning-Workshop-Python-Prague
 
 ## Installing Jupyter Notebook
 
