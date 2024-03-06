@@ -55,3 +55,6 @@ From the Jupyter dashboard, you can create a new notebook by clicking on the "Ne
 !pip install matplotlib
 !pip install seaborn
 ```
+
+## Install Inno Setup
+Install Inno Setup for developing standalone softwares. You can download the latest version of Inno Setup from the official website: [Inno Setup Downloads](https://jrsoftware.org/isdl.php).
