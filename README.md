@@ -41,6 +41,8 @@ From the Jupyter dashboard, you can create a new notebook by clicking on the "Ne
 - numpy
 - matplotlib
 - seaborn
+- pyinstaller
+
 
 ## Installing Required Libraries
 
