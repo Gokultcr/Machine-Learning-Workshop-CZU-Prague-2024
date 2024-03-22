@@ -54,6 +54,8 @@ From the Jupyter dashboard, you can create a new notebook by clicking on the "Ne
 !pip install numpy
 !pip install matplotlib
 !pip install seaborn
+!pip install pyinstaller
+
 ```
 
 ## Install Inno Setup
